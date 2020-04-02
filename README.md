@@ -21,7 +21,7 @@ Why?
 
 
 # Inhalt #
-1. [Spielkarten zum Ausdrucken (A1 Format)](./Szenariobasierte_A1_Plakate.pdf)
+1. [Spielkarten zum Ausdrucken (A1 Format)](Szenariobasierte_A1_Plakate_DE.pdf)
 2. [Spielanleitung](./Anleitung.md)
 3. [Spielvarianten](./Spielvarianten.md)
 4. [Blogposts und Leselinks](./Leselinks.md)
@@ -31,7 +31,7 @@ Why?
   * [Anmeldedialog](./Beispielszenarien/Anmeldedialog.md)  
 
 # Content (!! WIP !!)
-1. [Playing cards for printing (A1 format)](./Szenariobasierte_A1_Plakate.pdf)
+1. [Playing cards for printing (A1 format)](Szenariobasierte_A1_Plakate_DE.pdf)
 2. [Game manual](./Anleitung.md)
 3. [Game variants](./Spielvarianten.md)
 4. [Blogposts and reading recommendations](./Leselinks.md)
