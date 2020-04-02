@@ -22,7 +22,7 @@ TODO: <Vorbereitung remote: .... >
 3. Gruppenarbeit; weitere Fälle für jede Kategorie erarbeiten lassen
 4. Auswertung / Debrief
 * Hätten Sie an alle vorgestellten Szenarien gedacht?
-* Welche Szenarien würden Sie ergänzen?
+*Welche Szenarien würden Sie ergänzen?
 * Welche Szenarien würde Ihr System (Software) abdecken?
 * Wo fiel Ihnen / der Gruppe die Zuordnung von Foto zu Szenariotyp leicht?
 * Wo fiel Ihnen / der Gruppe die Zuordnung von Foto zu Szenariotyp schwer?
