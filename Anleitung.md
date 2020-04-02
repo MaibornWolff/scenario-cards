@@ -93,7 +93,7 @@ Am Ende des Spiels haben alle die Möglichkeit, ihre Eindrücke und möglichen S
 
 In der Regel "beschweren" sich die Teilnehmer, dass die dargestellten Szenarien zum Teil nicht klar zu erkennen sind und daher nicht zugeordnet werden können. Meist gibt es auch unterschiedliche Auffassungen darüber, um welches Szenario es sich eigentlich handelt: ist es ein Standardfall oder eine Ausnahme? Ebenso wird angemerkt, dass die ursprünglichen Anforderungen an das System nicht bekannt sind: kann man Tee mit einem Kaffeevollautomaten kochen (Alternative oder Ausnahme) oder kann Soja- anstelle von Kuhmilch verwenden (Alternative oder bereits Missbrauch)? Ein Hinweis darauf, dass man die Perspektive eines Nutzers einnimmt, der keine Anforderungen kennt und keine Ahnung von der Funktionsweise hat (wer liest schon die Gebrauchsanweisung?), hilft meist beim nachträglichen Verständnis.
 
-## Spiel mit mehreren Gruppen
+### Spiel mit mehreren Gruppen
 
 Der Spielablauf ist identisch. Die Gruppen sollten die gleiche Größe haben. Wenn man mit mehreren agilen Teams spielt, sollte man die Teamstruktur beibehalten. 
 Allerdings große Gruppen teilen. Wichtig ist, dass die einzelnen Szenarien zeitlimitert angezeigt werden, da sonst eine Gruppe lange diskutiert, während die anderen sich langweilen.
