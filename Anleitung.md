@@ -11,56 +11,7 @@ Dabei steht das Nutzerverhalten im Vordergrund und berücksichtigt folgende Frag
     Wie kann der Nutzer durch eine beabsichtigte Fehlhandlung ein Fehlverhalten provozieren?
 
 # Szenarien #
-Aus den oben genannten Fragestellungen sind 5 verschiedene Szenarientypen abgeleitet:
-
-### Standardfall ###
-Beim Standardfall berücksichtigt man den die normale Interaktionsabfolge, die der Nutzer durchführt. Das erwartete Ergebnis entspricht dem primär vorgesehenen.
-
-Beispiel:
-
-Der Nutzer logt sich mit seiner Emailadresse und gültigem Passwort in einem Anmeldedialog ein. 
-Erwartetes Ergebnis: Die Anmeldung ist erfolgreich.
-
-
-### Alternative
-Bei einem alternativen Szenario hat der Nutzer die Möglichkeit, die Anwendung oder das Feature auch mit einer veränderten Interaktion zu benutzen. 
-Er erhält wie im Standardfall das primär vorgesehene Ergebnis.
-
-Beispiel:
-
-Der Nutzer verwendet anstelle der Emailadresse seine Nutzer-ID zum Anmelden. 
-Das erwartete Ergebnis entspricht dem Standardfall: der Nutzer wurde erfolgreich angemeldet.
-
-
-### Ausnahme
-Die Ausnahme stellt ein Szenario dar, bei der der Nutzer eine Interaktion durchführt, die gültig aber nicht primär vorgesehen ist. 
-Wie beim Standard- und Alternativfall wird das primär vorgesehene Ergebnis erreicht.
-
-Beispiel:
-
-Der Nutzer verwendet einen Nutzernamen mit Zeichen des erweiterten Lateinischen Zeichensatzes. 
-Wenn eine Registrierung des Nutzers mit diesem Zeichensatz möglich war, sollte die Anmeldung ebenfalls erfolgreich möglich sein.
-
-### Negativfall
-
-In diesem Szenario führt der Nutzer eine Interaktion aus, die nicht vorgesehen ist. 
-Diese erfolgt meist unbeabsichtigt und führt nicht zu dem gewünschten Ergebnis.
-
-Beispiel:
-
-Der Nutzer gibt seine Nutzerdaten über copy&paste ein. Dabei werden zusätzliche Steuerzeichen mitkopiert. 
-Erwartetes Ergebnis: Der Nutzer erhält eine Meldung, dass die Eingabe seiner Nutzerdaten nicht korrekt war. 
-
-### Missbrauch
-
-Im Gegensatz zum Negativfall führt der Nutzer mit Absicht eine nicht vorgesehene Interaktion aus, um z.B. die 
-Anwendung zu manipulieren oder sich unbefugten Zugriff auf Inhalte und/oder Daten zu verschaffen.
-
-Beispiel:
-
-Der Nutzer versucht über die Eingabefelder ein Script im Hintergrund zu starten, um andere Nutzerdaten aufzurufen. 
-Erwartetes Ergebnis: Die Eingabe von Scripten sollte erkannt und verhindert werden. 
-
+Aus den oben genannten Fragestellungen sind 5 verschiedene Szenarientypen abgeleitet, diese können unter [Definitionen](./Definitionen.md) nachgelesen werden.
 
 # Anwendung
 Die Ermittlung von Testfällen anhand von Szenarien ist eine schnelle und einfache Methode. Sie eignet sich besonders, wenn man mit "Nichttestern" zusammen Testfälle ermitteln möchte. Dies kommt häufig vor, wenn man mit Vertreten der Fachbereiche End-to-Endtests oder User Acceptance Tests plant.
