@@ -5,7 +5,7 @@ https://www.maibornwolff.de/blog/szenariobasiertes-testdesign
 
 # Tips und Tricks #
 Entwickler
-1. STandardfall
+1. Standardfall
 2. Alternativen
 
 Tester
