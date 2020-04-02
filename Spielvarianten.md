@@ -26,8 +26,8 @@ TODO: <Vorbereitung remote: .... >
 * Welche Szenarien würde Ihr System (Software) abdecken?
 * Wo fiel Ihnen / der Gruppe die Zuordnung von Foto zu Szenariotyp leicht?
 * Wo fiel Ihnen / der Gruppe die Zuordnung von Foto zu Szenariotyp schwer?
-* Welche der vorgestellten Szenarien würden Sie mindestens testen (lassen)? 
-* Welche der vorgestellten Szenarien sollte laut Ihnen ein Entwickler testen? 
-* Welche Szenarien sollte laut Ihnen ein Tester testen?
+* Welche der vorgestellten Szenarien würden Sie mindestens testen (lassen)?
+* Welche der vorgestellten Szenarien sollte laut Ihnen ein Entwickler testen?
+* Welche Szenarien sollte laut Ihnen ein Tester testen?
 * Was davon würdet Ihr mindestens Testen, was eher weniger und warum (Relevanz, Häufigkeit, Risiko, Aufwand)?
-* Was fällt Ihnen bzgl. der Verteilung Anzahl Szenarien pro Szenariotyp auf?
+* Was fällt Ihnen bzgl. der Verteilung Anzahl Szenarien pro Szenariotyp auf?
