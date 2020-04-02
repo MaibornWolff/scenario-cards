@@ -80,7 +80,7 @@ Das Spiel eignet sich auch gut für Nichttester, um ihnen einen schnellen Einsti
 ### Kartenset
 Kartenspiele mit je 8 Kartensätzen.
 
-### Spiel mit einer Gruppe:
+### Spiel mit einer Gruppe
 
 Die Gruppengröße sollte max. 5 nicht übersteigen, da sonst nur ein oder zwei Gruppenmitglieder Entscheidungen treffen und die übrigen nur passiv teilnehmen. 
 Nach einer kurzen Einführung in die verschiedenen Szenarien werden verschiedene Anwendungsfälle eines Kaffeevollautomaten gezeigt.
