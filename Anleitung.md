@@ -1,5 +1,5 @@
-Testmethodik - Szenario basiertes Testen
-Einleitung
+# Testmethodik - Szenario basiertes Testen
+### Einleitung
 
 Beim Szenario basierten Testen werden produktspezifische Testfälle aus Sicht verschiedener Anwendungsfälle ermittelt. 
 Dabei steht das Nutzerverhalten im Vordergrund und berücksichtigt folgende Fragestellungen:
@@ -70,22 +70,20 @@ Ebenso eignet sich die Methode, um Anforderungen wie z.B. User Storys auf Vollst
 In beiden Fällen kann es hilfreich sein, die Szenariokarten zu verwenden und die Interaktionen gegen diese 5 Szenarien zu prüfen und ggf. zu ergänzen.
 
 Mit Hilfe der Szenarien kann ebenfalls eine Priorisierung der Testfälle erfolgen: Standard- und Alternativszenrien werden zuerst getestet, danach folgen Ausnahme- und Negativszenarien.
-Spiele
 
 
 ## Varianten
-Eine frühere Kollegin hat zur Veranschaulichung ein Kartenspiel entwickelt, in dem verschiedene Szenarien anhand eines Kaffeevollautomaten beschrieben werden (s. MW-Blog Szenario basiertes Testen).
-
 Es gibt verschiedene Varianten für das Spiel. Je nach Zielgruppe und Zweck kann dieses mit Einzelpersonen oder mehreren Gruppen parallel gespielt werden. Der Zeitaufwand ist mit maximal einer Stunde überschaubar.
 
-Das Spiel eignet sich besonders für Nichttester, um ihnen einen schnellen Einstieg in die verschiedenen Interaktionsmöglichkeiten aus Sicht eines Nutzers zu geben. 
+Das Spiel eignet sich auch gut für Nichttester, um ihnen einen schnellen Einstieg in die verschiedenen Interaktionsmöglichkeiten aus Sicht eines Nutzers zu geben. 
 
 ### Kartenset
 Kartenspiele mit je 8 Kartensätzen.
 
 ### Spiel mit einer Gruppe:
 
-Die Gruppengröße sollte max. 5 nicht übersteigen, da sonst nur ein oder zwei Gruppenmitglieder Entscheidungen treffen und die übrigen nur passiv teilnehmen. Nach einer kurzen Einführung in die verschiedenen Szenarien (werden am Anfang der angehängten Power Point Präsentation erklärt und sollten gemeinsam besprochen werden), werden verschiedene Anwendungsfälle eines Kaffeevollautomaten gezeigt.
+Die Gruppengröße sollte max. 5 nicht übersteigen, da sonst nur ein oder zwei Gruppenmitglieder Entscheidungen treffen und die übrigen nur passiv teilnehmen. 
+Nach einer kurzen Einführung in die verschiedenen Szenarien werden verschiedene Anwendungsfälle eines Kaffeevollautomaten gezeigt.
 
 Jeder Teilnehmer erhält einen Satz Szenariokarten. Für jede Szene wählt er eine Karte aus, die er der Gruppe zeigt. Die Gruppe muss sich dann gemeinsam auf ein Szenario einigen. Es gibt dabei nicht immer ein richtig oder falsch. Ziel ist es, dass alle Gruppenmitglieder das gleiche Verständnis dafür bekommen, was mit den einzelnen Szenarien gemeint ist.
 
@@ -94,9 +92,11 @@ Um das Spiel zusätzlich zu verschärfen, können die einzelnen Szenarien zeitli
 Am Ende des Spiels haben alle die Möglichkeit, ihre Eindrücke und möglichen Schwierigkeiten der Gruppe zu schildern.
 
 In der Regel "beschweren" sich die Teilnehmer, dass die dargestellten Szenarien zum Teil nicht klar zu erkennen sind und daher nicht zugeordnet werden können. Meist gibt es auch unterschiedliche Auffassungen darüber, um welches Szenario es sich eigentlich handelt: ist es ein Standardfall oder eine Ausnahme? Ebenso wird angemerkt, dass die ursprünglichen Anforderungen an das System nicht bekannt sind: kann man Tee mit einem Kaffeevollautomaten kochen (Alternative oder Ausnahme) oder kann Soja- anstelle von Kuhmilch verwenden (Alternative oder bereits Missbrauch)? Ein Hinweis darauf, dass man die Perspektive eines Nutzers einnimmt, der keine Anforderungen kennt und keine Ahnung von der Funktionsweise hat (wer liest schon die Gebrauchsanweisung?), hilft meist beim nachträglichen Verständnis.
-Spiel mit mehreren Gruppen
 
-Der Spielablauf ist identisch. Die Gruppen sollten die gleiche Größe haben. Wenn man mit mehreren agilen Teams spielt, sollte man die Teamstruktur beibehalten. Allerdings große Gruppen teilen. Wichtig ist, dass die einzelnen Szenarien timeboxt angezeigt werden, da sonst eine Gruppe lange diskutiert, während die anderen sich langweilen.
+## Spiel mit mehreren Gruppen
+
+Der Spielablauf ist identisch. Die Gruppen sollten die gleiche Größe haben. Wenn man mit mehreren agilen Teams spielt, sollte man die Teamstruktur beibehalten. 
+Allerdings große Gruppen teilen. Wichtig ist, dass die einzelnen Szenarien zeitlimitert angezeigt werden, da sonst eine Gruppe lange diskutiert, während die anderen sich langweilen.
 
 Interessant ist es die Gruppen zu beobachten. Manche Gruppen arbeiten als Team zusammen und kommen schnell zu einem gemeinsamen Ergebnis. Andere teilen sich auf: ein oder zwei diskutieren, die übrigen nehmen die Entscheidung ohne Widerspruch an.
 Testfallermittlung mit Vertretern der Fachbereiche
