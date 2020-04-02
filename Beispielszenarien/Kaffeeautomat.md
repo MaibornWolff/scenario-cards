@@ -4,26 +4,26 @@
 ## Standardfall
 Eine Tasse Kaffee (ohne Milch) auswählen
 
-![alt text](../images/kaffeeautomat/kaffee_standard.jpg  "Standardfall")
+![Mensch wählt Kaffee am Automaten](../images/kaffeeautomat/kaffee_standard.jpg  "Standardfall")
 
 ## Alternative
 Eine Tasse Milchkaffee (Latte) auswählen
 
-![alt text](../images/kaffeeautomat/kaffee_alternative.jpg  "Alternative")
+![Mensch wählt Milchkaffee am Automaten](../images/kaffeeautomat/kaffee_alternative.jpg  "Alternative")
 
 ## Ausnahme
-Die Tropfschale (Auffangbecken) ist vollgelaufen.
+Die Tropfschale (Auffangbecken) ist vollgelaufen.<br>
 Ein weiteres Heißgetränk kann erst bezogen werden, wenn die Schale zuvor geleert wurde.
 
-![alt text](../images/kaffeeautomat/kaffee_ausnahme.png  "Ausnahme")
+![Die Tropfschale ist voll](../images/kaffeeautomat/kaffee_ausnahme.png  "Ausnahme")
 
 ## Negativfall
 Kaffeebohnen werden nicht korrekt nachgefüllt. 
 Der Automaten gibt keinen Kaffee aus.
 
-![alt text](../images/kaffeeautomat/kaffee_negativfall.jpg  "Negativfall")
+![Bohnen mit Tüte sind eingefüllt](../images/kaffeeautomat/kaffee_negativ.jpg  "Negativfall")
 
 ## Missbrauch
 Auf mehr als einen oder alle Knöpfe für die Getränkeauswahl gleichzeitig drücken.
 
-![alt text](../images/kaffeeautomat/kaffee_missbrauch.png  "Missbrauch")
+![Mensch drückt alle Knöpfe gleichzeitig am Automaten](../images/kaffeeautomat/kaffee_missbrauch.png  "Missbrauch")
