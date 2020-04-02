@@ -1,17 +1,19 @@
 # Workshop
 
 ## Setup
-### On-Site
-3 Flipcharts, mit fünf Spalten, als Überschriften die Szenariotypen, und einem Parkplatz (i.S.v. Klärungsbedarf).
-Genug Fotos (Ausdrucke) des Beispielszenarios (z.B. Kaffeemaschine)
+#### On-Site
+* 3 Flipcharts, mit fünf Spalten, als Überschriften die Szenariotypen, und einem Parkplatz (i.S.v. Klärungsbedarf).
+* Genug Fotos (Ausdrucke) des Beispielszenarios (z.B. Kaffeemaschine)
 
 
-Auf dem Flipchart können die Teilnehmer die Fotos der jeweiligen Spalte oder dem Parkplatz zu ordnen. 
-Die Fotos sind alle ausgedruckt (3x) und hinten nummeriert (1, …, n). 
-Die Teilnehmer schreiben entweder aufs Foto, ebenfalls auf die Rückseite, den Szenariotyp (Kürzel) 
+#### Infos
+
+* Auf dem Flipchart können die Teilnehmer die Fotos der jeweiligen Spalte oder dem Parkplatz zu ordnen. 
+* Die Fotos sind alle ausgedruckt (3x) und hinten nummeriert (1, …, n).
+* Die Teilnehmer schreiben entweder aufs Foto, ebenfalls auf die Rückseite, den Szenariotyp (Kürzel) 
 oder lassen es leer, wenn k.A. / unklar / Rückfragen / Diskussionsbedarf
 
-### Remote
+#### Remote
 TODO: <Vorbereitung remote: .... >
 
 
