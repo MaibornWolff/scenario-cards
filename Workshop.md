@@ -11,7 +11,7 @@
 * Auf dem Flipchart können die Teilnehmer die Fotos der jeweiligen Spalte oder dem Parkplatz zu ordnen 
 * Die Ausdrucke sind hinten nummeriert (1, …, n)
 * Die Teilnehmer schreiben auf den Ausdruck auf der Rückseite den Szenariotyp (Kürzel) 
-oder lassen es leer, wenn es unklar ist oder esRückfragen / Diskussionsbedarf gibt
+oder lassen es leer, wenn es unklar ist oder es Rückfragen / Diskussionsbedarf gibt
 
 #### Remote
 TODO: <Vorbereitung remote: .... >
