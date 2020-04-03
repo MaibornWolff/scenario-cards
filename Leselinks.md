@@ -4,7 +4,9 @@ https://www.maibornwolff.de/blog/szenariobasiertes-testdesign
 
 
 # Tips und Tricks #
-Entwickler
+Wer könnte was zum Testen übernehmen? <br/>
+
+Teammitglied
 1. Standardfall
 2. Alternativen
 
