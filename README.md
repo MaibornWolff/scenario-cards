@@ -21,7 +21,7 @@ Why?
 
 
 # Inhalt #
-1. [Druck in A1 Format](./Print_A1/Deutsch)
+1. [Druck in A1 Format](./Print_A1/Deutsch/Szenariobasierte_A1_Plakate.pdf)
 2. [Spielanleitung](Spielanleitung.md)
 3. [Workshop Setup](Workshop.md)
 4. [Definitionen](./Definitionen.md)
