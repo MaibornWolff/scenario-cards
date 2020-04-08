@@ -21,7 +21,7 @@ Why?
 
 
 # Inhalt #
-1. [Spielkarten zum Ausdrucken (A1 Format)](Szenariobasierte_A1_Plakate_DE.pdf)
+1. [Druck in A1 Format](./Print_A1/Deutsch)
 2. [Spielanleitung](Spielanleitung.md)
 3. [Workshop Setup](Workshop.md)
 4. [Definitionen](./Definitionen.md)
@@ -32,7 +32,7 @@ Why?
   * [Anmeldedialog](./Beispielszenarien/Anmeldedialog.md)  
 
 # Content (!! WIP !!)
-1. [Playing cards for printing (A1 format)](Szenariobasierte_A1_Plakate_DE.pdf)
+1. [Print in A1 format](./Print_A1/English)
 2. [Game manual](Spielanleitung.md)
 3. [Workshop setup](Workshop.md)
 4. [Blogposts and reading recommendations](./Leselinks.md)
