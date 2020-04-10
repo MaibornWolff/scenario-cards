@@ -21,26 +21,29 @@ Why?
 
 
 # Inhalt #
-1. [Druck in A1 Format](Print_A1/Deutsch/Szenariokarten_A1_Plakate.pdf)
-2. [Spielanleitung](Spielanleitung.md)
-3. [Workshop Setup](Workshop.md)
-4. [Definitionen](./Definitionen.md)
-5. [Blogposts und Leselinks](./Leselinks.md)
-6. [Beispielszenarien](./Beispielszenarien)
+1. [Druck Vorlage in A1 Format](Print_A1/Deutsch/Szenariokarten_A1_Plakate.pdf)
+2. [Spielkarten](./Spielkarten/Deutsch/)
+3. [Spielanleitung](Spielanleitung.md)
+4. [Workshop Setup](Workshop.md)
+5. [Definitionen](./Definitionen.md)
+6. [Blogposts und Leselinks](./Leselinks.md)
+7. [Beispielszenarien](./Beispielszenarien)
   * [Kaffeeautomat](./Beispielszenarien/Kaffeeautomat.md)
   * [Navigationssystem](./Beispielszenarien/Navigationssystem.md)
   * [Anmeldedialog](./Beispielszenarien/Anmeldedialog.md)
   * [Vorlage für neue Szenarien](Template_Scenario.md)
 
-# Content (!! WIP !!)
-1. [Print in A1 format](./Print_A1/English/Scenario-Cards_A1.pdf)
-2. [Game manual](Spielanleitung.md)
-3. [Workshop setup](Workshop.md)
-4. [Blogposts and reading recommendations](./Leselinks.md)
-5. [Examples](./Beispielszenarien)
-  * [Coffee machine](./Beispielszenarien/Kaffeeautomat.md)
-  * [Navigation system](./Beispielszenarien/Navigationssystem.md)
-  * [Login dialog](./Beispielszenarien/Anmeldedialog.md)
+# Content
+1. [Print template in A1 format](./Print_A1/English/Scenario-Cards_A1.pdf)
+2. [Playing cards](./Spielkarten/English)
+3. [Game manual](Spielanleitung.md) TODO
+4. [Workshop setup](Workshop.md)
+5. [Definitionen](./Definitionen.md) TODO
+6. [Blogposts and reading recommendations](./Leselinks.md)
+7. [Examples](./Beispielszenarien)
+  * [Coffee machine](./Beispielszenarien/Kaffeeautomat.md) TODO
+  * [Navigation system](./Beispielszenarien/Navigationssystem.md) TODO
+  * [Login dialog](./Beispielszenarien/Anmeldedialog.md) TODO
   * [Template for new scenarios](Template_Scenario.md)  
 
 # Lizenz / License # 
