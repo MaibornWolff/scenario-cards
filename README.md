@@ -21,7 +21,7 @@ Why?
 
 
 # Inhalt #
-1. [Druck in A1 Format](./Print_A1/Deutsch/Szenariobasierte_A1_Plakate.pdf)
+1. [Druck in A1 Format](Print_A1/Deutsch/Szenariokarten_A1_Plakate.pdf)
 2. [Spielanleitung](Spielanleitung.md)
 3. [Workshop Setup](Workshop.md)
 4. [Definitionen](./Definitionen.md)
@@ -29,17 +29,19 @@ Why?
 6. [Beispielszenarien](./Beispielszenarien)
   * [Kaffeeautomat](./Beispielszenarien/Kaffeeautomat.md)
   * [Navigationssystem](./Beispielszenarien/Navigationssystem.md)
-  * [Anmeldedialog](./Beispielszenarien/Anmeldedialog.md)  
+  * [Anmeldedialog](./Beispielszenarien/Anmeldedialog.md)
+  * [Vorlage für neue Szenarien](Template_Scenario.md)
 
 # Content (!! WIP !!)
-1. [Print in A1 format](./Print_A1/English)
+1. [Print in A1 format](./Print_A1/English/Scenario-Cards_A1.pdf)
 2. [Game manual](Spielanleitung.md)
 3. [Workshop setup](Workshop.md)
 4. [Blogposts and reading recommendations](./Leselinks.md)
 5. [Examples](./Beispielszenarien)
   * [Coffee machine](./Beispielszenarien/Kaffeeautomat.md)
   * [Navigation system](./Beispielszenarien/Navigationssystem.md)
-  * [Login dialog](./Beispielszenarien/Anmeldedialog.md)  
+  * [Login dialog](./Beispielszenarien/Anmeldedialog.md)
+  * [Template for new scenarios](Template_Scenario.md)  
 
 # Lizenz / License # 
 [No license. All rights reserved](./LICENSE)
