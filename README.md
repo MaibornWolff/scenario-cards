@@ -7,13 +7,13 @@ The scenario maps are the result of research and development in the MaibornWolff
 
 
 
-Warum?
+#### Warum?
 1. Als Quelle für Testideen und die Erstellung von Testfällen eignen sich Szenarien gut.
 2. Szenarien als Impulsgeber / Treiber für das Erstellen von vielseitigen Testfällen.
 3. Sammlung als erste grafische Notizen dienen als Grundlage für die zu erstellenden ausführlicheren Testfälle.
 4. Szenariobasierter Testentwurf fördert nicht selten neue Anforderungen zu Tage.
 
-Why?
+#### Why?
 1. Scenarios are a good source for test ideas and the creation of test cases.
 2. Scenarios as impulse generator / driver for the creation of versatile test cases.
 3. Collection as first graphical notes serve as a basis for the more detailed test cases to be created.
